@@ -1,0 +1,89 @@
+[
+    {
+        "definitions" : [
+            {
+                "column" : 8,
+                "file" : "C:/Dropbox/github/copCS/src/IPS.cpp",
+                "kind" : 6,
+                "line" : 10,
+                "name" : "llk(arma::mat, arma::mat)",
+                "parent_name" : "",
+                "usr" : "c:@F@llk#$@N@arma@C@Mat>#d#S0_#"
+            },
+            {
+                "column" : 12,
+                "file" : "C:/Dropbox/github/copCS/src/IPS.cpp",
+                "kind" : 6,
+                "line" : 25,
+                "name" : "Wvert(Rcpp::List)",
+                "parent_name" : "",
+                "usr" : "c:@F@Wvert#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#"
+            },
+            {
+                "column" : 12,
+                "file" : "C:/Dropbox/github/copCS/src/IPS.cpp",
+                "kind" : 6,
+                "line" : 40,
+                "name" : "WvertC(Rcpp::List, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@WvertC#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "C:/Dropbox/github/copCS/src/IPS.cpp",
+                "kind" : 6,
+                "line" : 58,
+                "name" : "setdifference(arma::uvec, arma::uvec)",
+                "parent_name" : "",
+                "usr" : "c:@F@setdifference#$@N@arma@C@Col>#i#S0_#"
+            },
+            {
+                "column" : 11,
+                "file" : "C:/Dropbox/github/copCS/src/IPS.cpp",
+                "kind" : 6,
+                "line" : 71,
+                "name" : "setdifferencev(arma::vec, arma::vec)",
+                "parent_name" : "",
+                "usr" : "c:@F@setdifferencev#$@N@arma@C@Col>#d#S0_#"
+            },
+            {
+                "column" : 11,
+                "file" : "C:/Dropbox/github/copCS/src/IPS.cpp",
+                "kind" : 6,
+                "line" : 86,
+                "name" : "sequencen(int)",
+                "parent_name" : "",
+                "usr" : "c:@F@sequencen#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "C:/Dropbox/github/copCS/src/IPS.cpp",
+                "kind" : 6,
+                "line" : 100,
+                "name" : "clique_part(Rcpp::List)",
+                "parent_name" : "",
+                "usr" : "c:@F@clique_part#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#"
+            },
+            {
+                "column" : 12,
+                "file" : "C:/Dropbox/github/copCS/src/IPS.cpp",
+                "kind" : 6,
+                "line" : 125,
+                "name" : "clique_comppart(Rcpp::List, int)",
+                "parent_name" : "",
+                "usr" : "c:@F@clique_comppart#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#I#"
+            },
+            {
+                "column" : 12,
+                "file" : "C:/Dropbox/github/copCS/src/IPS.cpp",
+                "kind" : 6,
+                "line" : 146,
+                "name" : "IPS2(double, int, arma::mat, Rcpp::List, int, double)",
+                "parent_name" : "",
+                "usr" : "c:@F@IPS2#d#I#$@N@arma@C@Mat>#d#$@N@Rcpp@C@Vector>#VI19#@N@Rcpp@CT>1#T@PreserveStorage#I#d#"
+            }
+        ],
+        "file" : "C:/Dropbox/github/copCS/src/IPS.cpp",
+        "file_last_write" : 1459620786
+    }
+]

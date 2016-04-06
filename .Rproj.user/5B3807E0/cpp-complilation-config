@@ -1,0 +1,15 @@
+{
+    "args" : [
+        "-IC:/R/RStudio/resources/libclang/builtin-headers/3.4",
+        "-IC:/R/Rtools/gcc-4.6.3/i686-w64-mingw32/include",
+        "-IC:/R/Rtools/gcc-4.6.3/include/c++/4.6.3",
+        "-IC:/R/Rtools/gcc-4.6.3/include/c++/4.6.3/i686-w64-mingw32/64",
+        "-IC:/R/R-3.2.4/library/Rcpp/include",
+        "-IC:/R/R-3.2.4/library/RcppArmadillo/include",
+        "-IC:/R/R-3.2.4/include",
+        "-Id:/RCompile/r-compiling/local/local323/include"
+    ],
+    "hash" : "145994814014599481411459948141",
+    "is_cpp" : true,
+    "pch" : "Rcpp"
+}
